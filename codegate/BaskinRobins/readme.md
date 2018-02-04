@@ -15,7 +15,7 @@
 
 為左令題目變簡單d，題目特登加左個helper gadget，無語-_-
 
-[Screen Cap](Ida.PNG)
+![Screen Cap](Ida.PNG)
 
 無開到PIE同CANARY，好多野可以做到。
 
@@ -31,7 +31,7 @@ RELRO     : Partial
 
 ## Vulnerability
 
-[Screen Cap](Ida.PNG)
+![Screen Cap](Ida.PNG)
 
 右邊段 code 比你 read 400 個字，但淨系準備 150 個位，一睇就知要BufferOverFlow，而且系PIE同CANARY disable嘅狀態之下基本上可以為所欲為，不過出題者話
 
