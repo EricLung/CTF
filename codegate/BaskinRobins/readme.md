@@ -46,6 +46,7 @@ RELRO     : Partial
 
 solution: [solve.py](solve.py)
 
+題外話：無用到 one gadget rce ，因為懶得下載搵 one gadget rce addr 嘅 tool。
 ```
 [+] Opening connection to ch41l3ng3s.codegate.kr on port 3131: Done
 system: 0x7fbd47e1b390
